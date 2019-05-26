@@ -1,0 +1,59 @@
+body {
+  background-color:#D4B26A; 
+  padding-top:10px;
+  padding-bottom:10px;
+/*   display: flex; with Flexbox */
+  display: flex;
+  justify-content: center;
+}
+.policy-letter{
+  background-color :white;
+   max-width:70ch;
+}
+.company-name{
+  padding-top:20px;
+  text-align:center;
+  font-size:18px;
+}
+p.company-address{
+  text-align:center;
+  line-height: 0px;
+  font-size:16px;
+}
+p.name{
+  margin:30px;
+  text-align: center;
+  font-size:16px;
+}
+ul.hat-list  li{
+  padding-left:50px;
+/* Use list-style-none =>  No marker is show */
+  list-style-type: none; 
+  margin-left:10px ;
+  padding: 0;
+}
+.series-name{
+  text-align:center;
+  font-style: italic;
+  font-weight: 500;
+  margin-top:20px;
+}
+h1.title{
+  text-align:center;
+  line-height:0px;
+}
+.content p{ 
+  word-break: break-all;
+  padding-left:50px;
+  padding-right:50px;
+  text-align:justify;
+}
+.author{
+  text-align:center;
+  line-height:0px;
+  margin-top:20px;
+}
+.author-title{
+  text-align:center;
+  paddding-bottom:30px;
+}

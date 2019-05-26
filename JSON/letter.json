@@ -1,0 +1,13 @@
+{
+    "policy": {
+        "company_name": "Management Group International, LLC",
+        "company_address": "12157 W Linebaugh Ave Ste 420, Tampa, FL 33626",
+        "name": "MGI Policy Letter of 14 January 2019",
+        "hat_list": "All Exec Hats, All Tech Hats",
+        "series_name": "Payroll Series 2",
+        "title": "How to process payroll",
+        "content": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada interdum velit et consequat. Donec sit amet sagittis nisl, eu convallis lorem. Ut mollis mollis velit sit amet vestibulum. Nam congue urna mi, nec auctor dolor consectetur at. Phasellus orci lorem, egestas sed velit lobortis, vestibulum gravida mi. Maecenas imperdiet ex ex, viverra hendrerit diam finibus at. Ut mattis ex suscipit leo sollicitudin, id tincidunt est mattis. Sed egestas blandit tincidunt. Curabitur nec ornare ipsum, vitae dignissim neque."," Donec felis risus, commodo ac turpis nec, ullamcorper venenatis leo. Nam suscipit maximus rutrum. Duis sed augue eu nisl blandit tincidunt. Cras fermentum interdum elit et lacinia. Fusce nec congue est, cursus bibendum nisi. Maecenas dictum ipsum eu ultrices consectetur. Duis interdum velit nec magna consectetur, quis eleifend mauris maximus."," Phasellus in rhoncus elit, vitae dapibus nisi. Sed ullamcorper ultricies quam, id facilisis lorem dapibus et. Mauris mi nisi, pellentesque vel quam non, rutrum hendrerit tellus. Vestibulum non maximus diam. Aenean sed augue lectus. Cras semper aliquam pulvinar. Duis condimentum malesuada pellentesque. Phasellus cursus dapibus posuere."," Suspendisse congue porta ligula in aliquet. Pellentesque in imperdiet dolor. Nunc finibus libero leo. Donec ut turpis lacinia magna vehicula placerat eleifend sed ex. Nulla non lectus interdum, facilisis libero sit amet, posuere quam. Maecenas condimentum felis eu vehicula consectetur. Nullam eu neque odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc tristique felis non nunc maximus sodales. Phasellus sagittis vel massa eu mollis."," Vivamus id nisi vitae ex fringilla ornare. Fusce vitae elit ultricies, placerat justo rutrum, pharetra mi. Quisque quis felis eget enim vestibulum congue sodales sit amet elit. Morbi mi massa, molestie sit amet lacus eget, vulputate iaculis erat. Vivamus euismod nibh pharetra, pulvinar mauris id, auctor eros. Phasellus sit amet metus magna. Integer quis lacinia justo, sed facilisis lacus. Cras eu felis accumsan nunc laoreet iaculis. Integer et accumsan mi. Vestibulum tempus efficitur elit."],
+        "author": "Tony Ciotti",
+        "author_title": "Founder"
+    }
+}
